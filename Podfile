@@ -1,13 +1,13 @@
 platform :ios
 
-dependency 'AFNetworking',            '~> 0.7.0'
-dependency 'EGOTableViewPullRefresh', '~> 0.1.0'
-dependency 'JSONKit',                 '~> 1.4'
-dependency 'SVProgressHUD',           '~> 0.2'
+pod 'AFNetworking',            '~> 0.7.0'
+pod 'EGOTableViewPullRefresh', '~> 0.1.0'
+pod 'JSONKit',                 '~> 1.4'
+pod 'SVProgressHUD',           '~> 0.2'
 
 # Recommended, but not included.
 #
-# dependency 'QuickDialog'
+# pod 'QuickDialog'
 
 # TODO We don’t have a spec for IBAForms yet.
-# dependency 'IBAForms'
+# pod 'IBAForms'
